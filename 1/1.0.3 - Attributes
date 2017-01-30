@@ -1,0 +1,8 @@
+# 1.0.3 - Attributes
+
+HTML elements can have *attributes*. For example, the following textarea will have 20 rows.
+
+    <textarea rows=20></textarea>
+
+The syntax is pretty clear, and we can say that this textarea has an *attribute* called rows; that attribute has the *value* 20.
+
