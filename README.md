@@ -11,4 +11,5 @@ List of topics
   - w3schools.
 
 Topics to add:
+- dev tools 
 - jsbin
