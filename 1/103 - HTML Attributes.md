@@ -17,3 +17,8 @@ A checkbox input:
     <input type='checkbox'>
 
 As you can see we are using the 'type' attribute to change the type of the input tag. Copy both of these into your index.html and observe the difference.
+
+Try the next two attributes in your index.html:
+
+    <input value='123' />
+    <input placeholder='Please enter your value here' />

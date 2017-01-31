@@ -14,4 +14,4 @@ For example, we might see some thing like this:
 
 We can edit the document directly from the Elements page - we can add, remove, or edit the HTML directly, as well as apply styles. We can thus 'play around' with our app, seeing the immediate results of our code. 
 
-While building web pages/apps, we will use the Chrome Dev tools extensively. They are an extremely powerful tool. 
+While building web pages/apps, we will use the Chrome Dev tools extensively. They are an extremely powerful tool.
