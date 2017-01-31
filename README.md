@@ -1,5 +1,6 @@
 # bbod
-Big Book of Front-End Development
+
+This is the Big Book of Front-End Development.
 
 List of topics
 0-Intro  
