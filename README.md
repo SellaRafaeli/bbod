@@ -26,7 +26,7 @@ List of topics
   fonts and the link tag
   
 3-  
-  introduction to js, console tab    
+  introduction to js, console tab, alert, console.log
   variables
   arrays
   iteration: for, while 
@@ -34,8 +34,8 @@ List of topics
   functions  
   the document object and DOM, getObjectById 
   modifying DOM elements with JS   
-4-
-  
+
+4-  
   the script tag (local) 
   the script tag (remote) 
   the video tag 
@@ -63,8 +63,10 @@ Topics to add:
 - cors 
 - xss 
 - events 
+- HTML comments 
 - HTML - document layout (head, etc)
 - HTML tags like <section>, <article>, <header>, <footer> etc
 - sass, less 
 - flexbox 
 - advanced CSS selectors (two classes, nested classes)
+- JS without 'var' -> window. 
