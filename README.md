@@ -31,20 +31,20 @@ List of topics
   functions 
   DOM - modifying the document with JS 
   Events and Inline JS
-  the script tag (local) 
+  the script tag (local ) 
   Callbacks
+  
+
+4-  
+  the script tag (local) 
   objects and keys/properties/attributes 
   
   iteration: for, while   
   functions  
   
-
-4-  
-  the script tag (local) 
   the script tag (remote) 
   the video tag 
   closures
-  callbacks 
   map, filter, reduce 
   DOM events
 
@@ -66,7 +66,8 @@ Topics to add:
 - jsbin
 - cors 
 - xss 
-- events 
+- events: other than 'click'
+- CSS: hover 
 - HTML comments 
 - HTML - document layout (head, etc)
 - HTML tags like <section>, <article>, <header>, <footer> etc
