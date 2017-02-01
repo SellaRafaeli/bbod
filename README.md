@@ -16,17 +16,15 @@ List of topics
   chrome dev tools
 
 2-  
-  display: inline/block
-  position:
-  z-index  
-  fonts   
   html lists and tables 
   html anchors 
   style tag
   html classes and ids + style tag
-  the link tag 
-  chrome dev tools practice 
-
+  display
+  position
+  z-index
+  fonts and the link tag
+  
 3-  
   introduction to js, console tab    
   variables
@@ -35,9 +33,9 @@ List of topics
   objects and keys/properties/attributes 
   functions  
   the document object and DOM, getObjectById 
-  modifying DOM elements with JS 
-
+  modifying DOM elements with JS   
 4-
+  
   the script tag (local) 
   the script tag (remote) 
   the video tag 
@@ -69,3 +67,4 @@ Topics to add:
 - HTML tags like <section>, <article>, <header>, <footer> etc
 - sass, less 
 - flexbox 
+- advanced CSS selectors (two classes, nested classes)

@@ -20,7 +20,9 @@ Every HTML element has a default display value - for example, divs have a 'block
 
 Items' display property can be overridden.
 
-Inspect the following HTML which showcases the differences. Remember divs have a block display (full row, can receive a height); spans have an inline display (same row); and inline-block elements continue on the same row, but can receive a custom height. 
+The following HTML showcases the differences. 
+
+Remember divs have a block display (full row, can receive a height); spans have an inline display (same row); and inline-block elements continue on the same row, but can receive a custom height. 
   
     <div style='height: 50px'> entire row 1 </div>
     <div> 

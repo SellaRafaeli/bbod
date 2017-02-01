@@ -1,4 +1,4 @@
-# 1.0.6 - Chrome Dev Tools
+# 106 - Chrome Dev Tools
 
 The Chrome browser comes built-in with a set of developer tools which allow which allow for powerful inspection and debugging of web pages. 
 
