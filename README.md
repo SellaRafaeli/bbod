@@ -27,13 +27,17 @@ List of topics
   
 3-  
   introduction to js, console tab, alert, console.log
-  variables
-  arrays
-  iteration: for, while 
+  variables && arrays
+  functions 
+  DOM - modifying the document with JS 
+  Events and Inline JS
+  the script tag (local) 
+  Callbacks
   objects and keys/properties/attributes 
+  
+  iteration: for, while   
   functions  
-  the document object and DOM, getObjectById 
-  modifying DOM elements with JS   
+  
 
 4-  
   the script tag (local) 

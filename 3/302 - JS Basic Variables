@@ -1,8 +1,0 @@
-# JS Variables
-
-JS has a few types of variables. Try the following:
-
-  var a = 1; // 'a' is now 1, a number
-  var a = 'Hello'; // We replace a's value with 'Hello', a string. 
-
-We can change a variable's data, including to different types. 
