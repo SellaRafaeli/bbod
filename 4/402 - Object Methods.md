@@ -1,4 +1,4 @@
-# Object Function Properties
+# Object Properties: Functions (Methods)
 
 Recall an object has properties. 
 
@@ -27,9 +27,18 @@ To assign a function to an object's property, we can refer to an existing functi
 
     var dog = {
       num_legs: 4,
-      bark: function() {
-        alert('Woof woof!')
+      talk: function() {
+        alert('Woof woof')
       }
     }
 
-    dog.bark(); 
+    dog.talk(); 
+
+When a function is a a property of an object it is sometimes referred to as a *method* of the object.
+
+Functions can by dynamically assigned to an existing object, just like any other property:
+
+    var obj = {};
+    obj.name = 'Sella';
+    obj.sayHi = function() { alert('hi') };
+    obj.sayHi();

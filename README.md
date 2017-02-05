@@ -56,7 +56,8 @@ List of topics
 6-
 
 
-
+Missing:
+  - margin, padding 
    
 More Stuff:
   - Node, NPM
