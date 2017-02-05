@@ -1,6 +1,8 @@
 # JS Assignment, Comments, and the Console
 
-JS uses variables of a few types, declared by `var`. For example, try the following, pressing 'enter' after each line:
+JS uses variables of a few types, declared by `var`. A variable is a name for a value that can change. 
+
+For example, try the following, pressing 'enter' after each line:
 
     var a = 1;
     var b = 2;

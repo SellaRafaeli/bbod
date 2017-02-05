@@ -2,6 +2,8 @@
 
 Another way of making DOM (HTML) elements react to events is by attaching *callbacks*. A *callback* is just a fancy name for a function (that gets *called back* when something happens).
 
+In other words, we can tell an element on the page to do something upon a certain event. 
+
 Try the following in your index.html:
 
     <script>
@@ -28,5 +30,5 @@ Alernatively, try the following in your index.html:
       buttonElement.onclick = sayHi;
     </script>
 
-This is an alternative way of attaching behavior to the button element - without even writing any JS inside our HTML. 
+This is an alternative way of attaching behavior to the button element - without writing any JS inside our HTML. 
     

@@ -34,44 +34,54 @@ List of topics
   the script tag (local ) 
   Callbacks
   
-
 4-  
-  the script tag (local) 
-  objects and keys/properties/attributes 
-  
-  iteration: for, while   
-  functions  
-  
+  objects and keys/properties/attributes   
+  iteration: for, while     
   the script tag (remote) 
-  the video tag 
-  closures
-  map, filter, reduce 
-  DOM events
+  map, filter, reduce
+  jquery 1 
+  jquery 2 
+  - debugging JS in developer tools 
 
-5-   
-  http 
-  network tab 
-  BONUS: 'new' 
-  BONUS: prototypal inheritance 
+5- 
+  - FE-hosting sites: jsbin / jsfiddle / codepen
+  - HTML comments 
+  - HTML - document layout (head, etc)  
+  - HTML tags like <section>, <article>, <header>, <footer> etc 
+  - networking and 'client'-'server' ('frontend'-'backend')
+  - networking tab 
+  - HTTP
+  - AJAX (jquery)
+
+6-
+
+
+
+   
+More Stuff:
+  - Node, NPM
+  - localStorage 
+  - JS 'new' 
+  - JS prototypal inheritance 
+  - JS variable scope 
+  - CSS flexbox
+  - SASS, LESS 
+  - Git 
+  - CSS: hover  
+  - CORS 
+  - closures
+  - advanced CSS selectors (two classes, nested classes)
+  - Dev Tools 
+
+Future:
+  - Cyber? 
 
 6-
   ES6 
 
 
-
-  w3schools.
-
 Topics to add:
-- dev tools 
-- jsbin
-- cors 
 - xss 
 - events: other than 'click'
-- CSS: hover 
-- HTML comments 
-- HTML - document layout (head, etc)
-- HTML tags like <section>, <article>, <header>, <footer> etc
-- sass, less 
-- flexbox 
-- advanced CSS selectors (two classes, nested classes)
-- JS without 'var' -> window. 
+
+
