@@ -39,6 +39,8 @@ List of topics
   iteration: for, while     
   the script tag (remote) 
   map, filter, reduce
+  intro to the browser
+  library 
   jquery 1 
   jquery 2 
   - debugging JS in developer tools 
