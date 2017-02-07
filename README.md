@@ -82,7 +82,6 @@ Future:
 6-
   ES6 
 
-
 Topics to add:
 - xss 
 - events: other than 'click'
