@@ -1,1 +1,4 @@
-document.getElementById('main').style.color='red';
+a = 1
+b = 2    
+c = a + b
+//alert(c);

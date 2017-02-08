@@ -43,16 +43,15 @@ List of topics
   library 
   jquery 1 
   jquery 2 
-  - debugging JS in developer tools 
+  debugging JS in developer tools 
 
 5- 
   - FE-hosting sites: jsbin / jsfiddle / codepen
-  - HTML comments 
-  - HTML - document layout (head, etc)  
-  - HTML tags like <section>, <article>, <header>, <footer> etc 
+  - HTML - comments and document layout (head, etc)  
   - networking and 'client'-'server' ('frontend'-'backend')
   - networking tab 
   - HTTP
+  - API 
   - AJAX (jquery)
 
 6-
