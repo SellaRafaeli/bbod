@@ -64,6 +64,7 @@ Missing:
 More Stuff:
   - Node, NPM
   - localStorage 
+  - AJAX failures 
   - JS 'new' 
   - JS prototypal inheritance 
   - JS variable scope 
@@ -75,6 +76,7 @@ More Stuff:
   - closures
   - advanced CSS selectors (two classes, nested classes)
   - Dev Tools 
+
 
 Future:
   - Cyber? 
