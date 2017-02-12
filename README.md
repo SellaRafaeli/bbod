@@ -60,7 +60,8 @@ List of topics
 
 Missing:
   - margin, padding 
-   
+  - bootstrap 
+  
 More Stuff:
   - Node, NPM
   - localStorage 
