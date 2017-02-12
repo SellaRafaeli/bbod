@@ -51,9 +51,10 @@ List of topics
   - networking and 'client'-'server' ('frontend'-'backend')
   - networking tab 
   - HTTP
-  - API 
+  - JSON 
+  - API
   - AJAX (jquery)
-
+  
 6-
 
 
