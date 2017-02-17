@@ -39,3 +39,19 @@ There are *many* different styles that can be applied. Some further examples:
     <div style='border:1px solid red; width: 100px'> Div with 100px width </div>
 
     <div style='border:1px solid red; height:200px;'> Div with 200px height </div>
+
+# Exercises
+
+1. Create an HTML page with 3 divs, one after another. The first should have a red border and a text saying 'Red', the second should have a blue border and a text saying 'blue', and the third a green border and a text saying 'green'. 
+
+Solution: https://jsfiddle.net/sellarafaeli/bfawysgu/
+
+2. Create an HTML page with 3 spans, one after another. The first should have a red background-color and a text saying 'Red', the second should have a blue background-color and a text saying 'blue', and the third a green background-color and a text saying 'green'. 
+
+Solution: https://jsfiddle.net/sellarafaeli/bfawysgu/1/
+
+2. Create an HTML page with 3 paragaphs (`<p>`), one after another. The first should have a height of 100px and a text saying '100px', the second should have a height of 200px and a text saying '200px', and the third a height of 300px and a text saying '300px'. Each `<p>` should have a black 1px border.
+
+Solution: https://jsfiddle.net/sellarafaeli/bfawysgu/2/
+
+

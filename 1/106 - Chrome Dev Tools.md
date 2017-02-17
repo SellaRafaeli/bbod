@@ -15,3 +15,16 @@ For example, we might see some thing like this:
 We can edit the document directly from the Elements page - we can add, remove, or edit the HTML directly, as well as apply styles. We can thus 'play around' with our app, seeing the immediate results of our code. 
 
 While building web pages/apps, we will use the Chrome Dev tools extensively. They are an extremely powerful tool.
+
+## Exercises
+
+Take your solutions from 105 and 106 and open them in a browser. Edit the following things via the developer tools:
+
+1. The background-color of some element
+2. The border of some element
+3. The height of some element
+4. The text of some element
+5. The tag type (div -> span) of some element
+6. The placeholder attribute of some input
+7. The value of some input 
+8. The location of some element (drag it after the next element)

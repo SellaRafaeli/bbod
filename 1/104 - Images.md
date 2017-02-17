@@ -13,3 +13,12 @@ Let's show this image:
     <img src='https://imgur.com/NJoZJIs.jpg' height='400px' width='450px'/> 
 
 We also used attributes for the height and width of the image. 
+
+## Exercises
+
+1. Find an image you like online. 
+2. Find its URL (right-click + copy image address)
+3. View this image in your browser, by URL.
+4. Create an HTML page that has this image. 
+
+Example solution: https://jsfiddle.net/sellarafaeli/7d4p5hjp/

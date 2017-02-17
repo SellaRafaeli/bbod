@@ -22,3 +22,22 @@ Try the next two attributes in your index.html:
 
     <input value='123' />
     <input placeholder='Please enter your value here' />
+
+## Exercises
+
+Create an HTML page (or JSFiddle) with the following elements and attributes:
+
+1. A checkbox.
+2. A checkbox that is checked by default (use the attribute 'checked' with a value of 'true').
+3. An input of default (unspecified) type.
+4. An input that has a password type. 
+5. An input that has a placeholder that says 'Enter value here'.
+6. An input that has a default value of 'Hello'.
+7. An input that has a defualt value of 'Hello' AND a placeholder that says 'Enter value here'
+8. A textarea 
+9. A textarea that has a placeholder 'My textarea'
+10. A textarea that has 10 rows (use 'rows' attribute)
+11. A textarea that has 40 columns (use 'cols' attribute)
+12. A textarea that has a default value (looks like this: `<textarea> Value </textarea>`)
+
+(Solution: https://jsfiddle.net/sellarafaeli/qfmmo8Lj/)

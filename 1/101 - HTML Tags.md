@@ -25,3 +25,13 @@ Tags can also be nested. For example we might have the following:
     </div>
 
 In this case the `<div>` element has an `<h1>` and two `<p>`s inside it; the second `<p>` has two `<span>`s inside it. Try the above in your own index.html.
+
+## Exercises
+
+So far we have learned about a few HTML tags, such as `<p>, <div>, <span>, <h1>, <h6>`. 
+
+Use a few of them in an HTML file of your own, and create the following result: https://jsfiddle.net/sellarafaeli/a6764bqa/4/
+
+1. Make sure you are able to create the same result in your own HTML file. 
+
+2. Note the difference in the result between different tags.

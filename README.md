@@ -57,14 +57,34 @@ List of topics
   
 6-
 
-
 Missing:
-  - margin, padding 
   - bootstrap 
+  - events other than 'click' 
+
+Apps:
+  - Tic Tac Toe 
+  - Hangman 
+  - Distance Calculator Between Two Cities 
+  - ToDo List
+  - Blog 
+  - Blog with Comments
+  - MyReminderz
+  - Message Board 
+  - My Favorite Photos 
+  - List of Links 
+  - Pros/Cons App 
+  - Quest 
+  - Admin Dashboard
   
 More Stuff:
+  - Responsive Design
+  - FontAwesome
+  - jQueryUI
+  - ES6 
   - Node, NPM
-  - localStorage 
+  - localStorage
+  - Promises
+  - Cookies 
   - AJAX failures 
   - JS 'new' 
   - JS prototypal inheritance 
@@ -74,19 +94,14 @@ More Stuff:
   - Git 
   - CSS: hover  
   - CORS 
-  - closures
+  - Closures
   - advanced CSS selectors (two classes, nested classes)
   - Dev Tools 
-
+  - XSS 
 
 Future:
   - Cyber? 
 
 6-
   ES6 
-
-Topics to add:
-- xss 
-- events: other than 'click'
-
 

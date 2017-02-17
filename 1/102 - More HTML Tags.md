@@ -27,4 +27,12 @@ A text input:
 
 Note the last element - the `<input/>` - is a *self-closing* tag; instead of having an opener and closer it has just a single tag which closes itself. 
 
-You can see how the browser uses these elements to create the controls you are familiar with. There are *many* tags and we will gradually learn them. No rush. 
+You can see how the browser uses these elements to create the controls you are familiar with. There are *many* tags we will learn to use over time. 
+
+## Exercises
+
+In an HTML file (or a JSFiddle), create a page with each of the tags we've learned: Strong text, a button, a 'select' dropdown, a textarea, and an input. 
+
+Make sure they are each on a separate line.
+
+Solution: https://jsfiddle.net/sellarafaeli/yxzadv88/
