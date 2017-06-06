@@ -23,11 +23,11 @@ Items' display property can be overridden.
 The following HTML showcases the differences. 
 
 Remember divs have a block display (full row, can receive a height); spans have an inline display (same row); and inline-block elements continue on the same row, but can receive a custom height. 
-  
-    <div style='height: 50px'> entire row 1 </div>
+
+    <div style='height: 50px; background-color: yellow'> entire row 1 </div>
     <div> 
-      <span> row1, column 1 </span>        
-      <span> row1, column 2 </span>
+      <span style='background-color: blue'> row1, column 1 </span>        
+      <span style='background-color: green'> row1, column 2 </span>
       <span style='display: none'> (invisible) </span>  
-      <span style='display: inline-block; height: 100px;''> row1, column 3, higher </span>
+      <span style='display: inline-block; height: 100px; background-color: red'> row1, column 3, higher </span>
     </div>
