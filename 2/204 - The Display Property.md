@@ -31,3 +31,5 @@ Remember divs have a block display (full row, can receive a height); spans have 
       <span style='display: none'> (invisible) </span>  
       <span style='display: inline-block; height: 100px; background-color: red'> row1, column 3, higher </span>
     </div>
+
+<img src='http://i.imgur.com/9UbeJsD.png'>
