@@ -38,3 +38,13 @@ A table with a column for 'Name' and a column for 'Age' might look like this (tr
     </table>
 
 This table clearly lacks styles - some borders on the cells, at least. We'll get to that. 
+
+## Exercises
+
+1. Make a list of numbers (one, two, three). 
+2. Give that list a yellow background.
+3. Give each item in the list a red border.
+4. Create a multiplication table with 2 columns (numbers 1, 2) and 2 rows (numbers 3, 4), with each cell showin the result of the column times the row. 
+5. Give each cell have a background color of purple. 
+
+Solution: https://jsfiddle.net/sellarafaeli/zc7foyq8/
