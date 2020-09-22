@@ -20,7 +20,7 @@ It is worth nothing that an object can be passed to a function as an argument. F
     }
 
     var cat = {
-      talk: {
+      talk: function() {
         alert('Meow')
       }
     }
